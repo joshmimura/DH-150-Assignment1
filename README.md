@@ -2,7 +2,7 @@
 
 Josh Mimura
 
-DH 150
+DH 150: UX
 
 ## Spotify
 
@@ -47,11 +47,28 @@ Score: 2
 
 ### 6 Recognition Over Recall 
 
+Spotify's app rarely demands that the user recalls any specific information. If a user wants to find certain music, they can look up a genre, author, or keywords, and the app's search enginge will provide a list of suggestions. These suggestions are recognizable and make music navigation quicker and easier. In addition, playlists in Spotify are supplemented with an album-like images that contain pictures of the albums within the playlist. This allows the user to recognize playlist content by the album covers rather than forcing him/her to memorize which specific songs are in that music file. In all, Spotify's emphasis on recognition-based navigation over recall-based navigation enhances the app's usability and experience. 
+
+Score: 1
+ 
+
 ### 7 Flexibility and Efficiency of Use
+
+Spotify's design allows expert music enthusiasts and music beginners to operate the app with ease and enjoyment. Experienced users can create an array of playlists and share them with others. They can create a music queue that specifies the exact order of music they listen to and can favorite certain songs while removing others. People who are less enthusiastic and want a simple experience don't even need to construct a custom playlist. They can tap on a genre of music, and music will begin playing. They can listen to music without needing to know how to use the more complicated features of Spotify. Therefore, Spotify is flexible and efficient; it provides inexperienced with an enjoyable musical experience while allowing expert music enthusiasts to build a complex, organized collection of media. 
+
+Score: 1
 
 ### 8 Aesthetic and Minimalist Design
 
+Spotify's interface features a black, green, and white color palette, consistent fonts, and an intuitive directory style navigation method. The simple and modern aesthetics make operating the app a simple and stress-free experience. In addition, the design is as minimalist as can be. For example, only the most relevant information is given on the music listening interface: the song title, author name, and a live time indicator. The interface does not include secondarily relevant information, but if a user is intersted in a certain song, they can tap on the album for more information. In sum, Spotify's design is straightforward and aesthetically pleasing. Relevant information only is provided in an unambiguous way, and if users want to learn more, Spotify allows them to by including subtle design actions that do not clutter the interface. 
+
+Score: 1
+
 ### 9 Help Users Recognize, Diagnose, and Recover from Errors
+
+Spotify does a decent job of notifying the user of errors and how to recover from them. For instance, if a user is offline, the app notifies him/her with a message: "No Internet Connection. Go online and try again." If a user attempts to download too many songs, Spotify will prompt the user with an error message explaining that the user is out of storage. Also, non-premium users who try to engage in premium member actions will be notified of this restriction and what they need to do to become a premium member (granted, this feels more like a marketing technique than a error processing design strategy). Spotify does the bare minimum when it comes to diagnosing and suggesting solutions to errors. It tells the user what the issue is, but it does not explain any solutions in much detail. Therefore, error processes could be an area of improvement for Spotify.
+
+Score: 2
 
 ### 10 Help and Documentation
 
