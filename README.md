@@ -13,19 +13,19 @@ Spotify is a media service platform that allows users to stream and download mus
 
 ### 1 Visibility of System Status
 
-Spotify does a good job of keeping the user informed on the system status of the app. For example, users know when a song is paused or playing due to the recognizable “play” and “pause” icon in the center of the screen. In addition, users know when the app is buffering or has weak connection because an “reconnecting…” message appears at the bottom of the screen. 
+Spotify does a good job of keeping the user informed on the system status at any given time. For example, users know when a song is paused or playing due to the recognizable “play” and “pause” icon in the center of the screen. Users also know how much time has passed in a song and how much is left based on the horizontal progress bar on the listening interface. When scrolling through playlists, the title of the song that is currently playing is highlighted in green while other songs' titles remain in white. In addition, users know when the app is buffering or has weak connection because a “reconnecting…” message appears at the bottom of the screen. Also, when downloading music, a conventional loading circle next to the song title lets the user know that a song is actively downloading, whereas a static grey download icon means the song is yet to begin downloading. All of these components effectively inform the user on the system status of the app. 
 
 Score: 1
 
 ### 2 Match Between System and the Real World
 
-Spotify uses conventional language and intuitive design that reflects real world trends. It uses commonly known words like “albums”, “artists”, “pause”, and “playlists”. The album interface is somewhat skeuomorphic in design as musical albums and playlists resemble the physical albums in the real world. In addition, skipping from song to song feels similar to turning pages in a physical book. Overall, Spotify uses consumer friendly language and design elements that intuitively resemble real world objects and processes.
+Spotify uses conventional language and intuitive design that reflects real world trends. It uses commonly known words like “albums”, “artists”, “pause”, and “playlists”. The album interface is somewhat skeuomorphic in design as musical albums and playlists resemble the physical albums in the real world. In addition, skipping from song to song feels similar to turning pages in a physical book from left to right. Overall, Spotify uses consumer friendly language and design elements that intuitively resemble real world physics and processes.
 
 Score: 1
 
 ### 3 User Control and Freedom
 
-The app lends the user much freedom by including redo functions throughout. For instance, if a listener accidentally skips a song, he/she can simply press the back arrow button to the left of the play button to return to the previous song. When navigating playlists, a user can tap to see the contents of a playlist and easily back out by clicking the left-pointing arrow in the upper left hand corner of the screen. Spotify excels in giving the user a sense of freedom and control.
+The app lends the user much freedom by including redo functions throughout. For instance, if a listener accidentally skips a song, he/she can simply press the back arrow button to the left of the play button to return to the previous song. When navigating playlists, a user can tap to see the contents of a playlist and easily back out by clicking the left-pointing arrow in the upper left hand corner of the screen. Should a user accidentally add a song to the queue, they can swipe the opposite direction to undo that action. Thus, Spotify excels in giving the user a sense of freedom and control.
 
 Score: 1
 
