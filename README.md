@@ -72,6 +72,12 @@ Score: 2
 
 ### 10 Help and Documentation
 
+Spotify, again, does the bare minimum when it comes to help and documentation. The app has an 'about' section where the user can access terms and conditions, privacy policy, and other official documents. However, should the user have a question that falls outside of these guidelines, there is no where else to turn. There is no FAQ section, no chatbox, no customer feedback form, and no 'find out more' tab. Without customer support contact information, the user is forced to search for answers on the internet. In sum, the lack of troubleshooting guidance and basic assistance outlets makes Spotify weak in the help and documentation category of evaluation. I think Spotify can improve in this area by providing a live chatbox for questions or a FAQ section.
+
+Score: 2
+
+can just search for ANY music content; help part in settings?? Phone number or email provided? Maybe not that good. 
+
 - Bulleted
 - List
 
