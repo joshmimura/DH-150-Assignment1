@@ -33,11 +33,6 @@ Score: 1
 
 ![spotify match](https://community.spotify.com/t5/image/serverpage/image-id/100063i7DC64BADE8A1E12A/image-size/medium?v=1.0&px=400)
 
-
-
-
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommunity.spotify.com%2Ft5%2FSubscriptions%2Fpremium-users-please-respond-Is-anyone-else-experiencing-this%2Ftd-p%2F4699243&psig=AOvVaw1eZO-_7CJDyV3xDXxGUUl-&ust=1578768310258000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjtrLbY-eYCFQAAAAAdAAAAABAV
-
 ### 3 User Control and Freedom
 
 The app lends the user much freedom by including redo functions throughout. For instance, if a listener accidentally skips a song, he/she can simply press the back arrow button to the left of the play button to return to the previous song. When navigating playlists, a user can tap to see the contents of a playlist and easily back out by clicking the left-pointing arrow in the upper left hand corner of the screen. Should a user accidentally add a song to the queue, he/she can swipe the opposite direction to undo that action. Also, volume control is accessible and easy to alter. The user can simply slide a button left and right to decrease and increase the volume respectively. Thus, Spotify excels in giving the user a sense of freedom and control.
@@ -45,9 +40,6 @@ The app lends the user much freedom by including redo functions throughout. For 
 Score: 1
 
 ![spotify user](https://media.idownloadblog.com/wp-content/uploads/2019/09/NextUp-2.jpg)
-
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.idownloadblog.com%2F2019%2F10%2F01%2Fnextup-2%2F&psig=AOvVaw0YIqfYFM1BfliMpkwrnDTC&ust=1578769196653000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDft-Xb-eYCFQAAAAAdAAAAABAD
-
 
 ### 4 Consistency and Standards
 
@@ -59,8 +51,6 @@ Score: 1
 
 ![spotify consistency](https://cnet2.cbsistatic.com/img/pi8lNp4qRgHT6sKtJ-iS90TArmQ=/1092x0/2018/09/07/be7a6c0d-07d9-4ed9-b349-3fe5e8336b91/applemusic-spotify.jpg)
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cnet.com%2Fnews%2Fapple-music-vs-spotify-comparison-best-music-streaming-service%2F&psig=AOvVaw3GqPGO9DRLWNUEq4gA8g8o&ust=1578769283234000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDBq4Pc-eYCFQAAAAAdAAAAABAg
-
 ### 5 Error Prevention
 
 Spotify has effective error prevention methods, but the app is still vulnerable to minor user error. For example, a user may accidentally swipe to download an album, which automatically begins downloading the album contents without warning. But beyond small errors like accidentally skipping or pausing songs, Spotify’s design works well in preventing errors. If a user want to delete an entire playlist, he/she have to navigate through several dropdowns, making this difficult to do on accident. In addition, if a user accidentally undownloads all songs from a playlist, he/she will be prompted with an “Are you sure?” message. In sum, Spotify fails to prevent small user errors, but its overall design forces users to be deliberate in high-stake actions, thus preventing costly errors. 
@@ -71,7 +61,6 @@ Score: 2
 
 ![spotify prevention2](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2017/06/spotify-delete-playlist-iphone-screenshot-02.jpg?itok=5kBQElrq)
 
-
 ### 6 Recognition Over Recall 
 
 Spotify rarely demands that the user recalls any specific information. If a user wants to find certain music, they can look up a genre, author, or keywords, and the app's search enginge will provide a list of suggestions. These suggestions are recognizable and make music navigation quicker and easier. In addition, playlists in Spotify are supplemented with album-like images that contain pictures of the albums within the playlist. This allows the user to recognize playlist content by the album covers rather than forcing him/her to memorize which specific songs are in that music file. If the user forgets the name of a song he/she recently listened to, Spotify offers a 'recently played' function so that the user doesn't need to remember the specific details of the song. In all, Spotify's emphasis on recognition-based navigation over recall-based navigation enhances the app's usability and experience. 
@@ -79,8 +68,6 @@ Spotify rarely demands that the user recalls any specific information. If a user
 Score: 1
 
 ![spotify recall](https://community.spotify.com/t5/image/serverpage/image-id/102960i7273639434A951C3?v=1.0)
- 
- https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommunity.spotify.com%2Ft5%2FClosed-Ideas%2FYour-Library-Bring-Spotify-s-old-UI-back%2Fidi-p%2F4674895&psig=AOvVaw1HtNobNZwTxJ600JzHZ7pu&ust=1578769711253000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMD5vc7d-eYCFQAAAAAdAAAAABAb
 
 ### 7 Flexibility and Efficiency of Use
 
@@ -90,8 +77,6 @@ Score: 1
 
 ![spotify flexibility](https://community.spotify.com/t5/image/serverpage/image-id/100931i5A648B8F5C1A7D18/image-size/large?v=1.0&px=999)
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommunity.spotify.com%2Ft5%2FiOS-iPhone-iPad%2FNew-terrible-update-2019-removes-personal-playlist-features-from%2Ftd-p%2F4681679%2Fpage%2F3&psig=AOvVaw1s0wn3d-WKG-6DsFI2SPbL&ust=1578770538646000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPia2Nfg-eYCFQAAAAAdAAAAABAD
-
 ### 8 Aesthetic and Minimalist Design
 
 Spotify's interface features a black, green, and white color palette, consistent fonts, and an intuitive directory style navigation method. The simple and modern aesthetics make operating the app a simple and stress-free experience. In addition, the design is as minimalist as can be. For example, only the most relevant information is given on the music listening interface: the song title, author name, and a live time indicator. The interface does not include secondarily relevant information, but if a user is intersted in a certain song, they can tap on the album for more information. In sum, Spotify's design is straightforward and aesthetically pleasing. Relevant information only is provided in an unambiguous way, and if users want to learn more, Spotify allows them to by including subtle design actions that do not clutter the interface. 
@@ -100,17 +85,13 @@ Score: 1
 
 ![Spotify Aesthetic](https://www.thurrott.com/wp-content/uploads/sites/2/2019/02/spotify-2.jpg)
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thurrott.com%2Fmusic-videos%2F198814%2Fspotify-testing-new-playback-interface&psig=AOvVaw1bAq857FJUOGtpLR6ykFzO&ust=1578770608161000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODCkfng-eYCFQAAAAAdAAAAABAD
-
 ### 9 Help Users Recognize, Diagnose, and Recover from Errors
 
 Spotify does a decent job of notifying the user of errors and how to recover from them. For instance, if a user is offline, the app notifies him/her with a message: "You're Offline". If a user attempts to download too many songs, Spotify will prompt the user with an error message explaining that the user is out of storage. Also, non-premium users who try to engage in premium member actions will be notified of this restriction and what they need to do to become a premium member (granted, this feels more like a marketing technique than a error processing design strategy). Spotify does the bare minimum when it comes to diagnosing and suggesting solutions to errors. It tells the user what the issue is, but it does not explain possible solutions in much detail. Therefore, error processes could be an area of improvement for Spotify.
 
-![Image description](http://csamimi.musites.org/blog/wp-content/uploads/2017/03/IMG_6668-576x1024.png)
-
 Score: 2
 
-https://www.google.com/url?sa=i&url=http%3A%2F%2Fcsamimi.musites.org%2Fblog%2Funcategorized%2Fspotify-a-heuristic-evaluation%2F&psig=AOvVaw3l_0Ryb8XEi2rbmxZuzY75&ust=1578770673976000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJD56pnh-eYCFQAAAAAdAAAAABAK
+![spotify diagnose](http://csamimi.musites.org/blog/wp-content/uploads/2017/03/IMG_6668-576x1024.png)
 
 ### 10 Help and Documentation
 
