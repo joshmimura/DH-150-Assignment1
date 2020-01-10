@@ -4,9 +4,9 @@
 
 The explosion of subscription-based music media platforms in the last decade have created a new community of listeners that can enjoy, share, and personalize their preferred music experiences. This community is unique because peer to peer interactions are rarely direct; rather, social connections exist through a mutual interest in an artist or genre of music. 
 
-I chose to evaluate Spotify because it is an app that millions of people in the listening community use everyday. I am interested in how the app’s design enhances or hinders its usability for the average user like me, who doesn’t actively analyze the app from a designer’s perspective. Given that Spotify is enormously popular, every element of its design must be extremely strategic, however subtle it may be.  In addition, I am interested in how the usability features of the platform foster a sense of community and connection with other listeners. 
+I chose to evaluate Spotify because it is an app that millions of people in the listening community use everyday. I am interested in how the app’s design enhances or hinders its usability for the average user like me, who doesn’t usually analyze the app from a designer’s perspective. Given that Spotify is enormously popular, every element of its design must be extremely strategic, however subtle it may be.  In addition, I am interested in how the usability features of the platform foster a sense of community and connection with other listeners. 
 
-Spotify is a media service platform that allows users to stream and download music, podcasts, and other forms of audio media. Users can access Spotify through a mobile app, which allows them to personalize, organize, and share music and other media. The app has several interfaces that allow direct song control as well as navigation through one's music collection. See image below. 
+Spotify is a media service platform that allows users to stream and download music, podcasts, and other forms of audio media. Users can access Spotify through a mobile app, which allows them to personalize, organize, and share music and other media. The app has several interfaces that allow direct song control as well as navigation through one's music collection. 
 
 ![Spotify Interfaces](https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2017/11/spotify.jpg?w=2500&quality=82&strip=all&ssl=1)
 
