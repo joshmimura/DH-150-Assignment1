@@ -8,17 +8,7 @@ I chose to evaluate Spotify because it is an app that millions of people in the 
 
 Spotify is a media service platform that allows users to stream and download music, podcasts, and other forms of audio media. Users can access Spotify through a mobile app, which allows them to personalize, organize, and share music and other media. The app has several interfaces that allow direct song control as well as navigation through one's music collection. See image below. 
 
-![Image of Yaktocat](https://www.google.com/url?sa=i&url=https%3A%2F%2F9to5mac.com%2F2017%2F11%2F17%2Fspotify-iphone-x%2F&psig=AOvVaw1eZO-_7CJDyV3xDXxGUUl-&ust=1578768310258000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjtrLbY-eYCFQAAAAAdAAAAABAD)
-
-
-![Spotify Interfaces](https://www.google.com/url?sa=i&url=https%3A%2F%2F9to5mac.com%2F2017%2F11%2F17%2Fspotify-iphone-x%2F&psig=AOvVaw1eZO-_7CJDyV3xDXxGUUl-&ust=1578768310258000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjtrLbY-eYCFQAAAAAdAAAAABAD)
-
-
 ![Spotify Interfaces](https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2017/11/spotify.jpg?w=2500&quality=82&strip=all&ssl=1)
-
-https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2017/11/spotify.jpg?w=2500&quality=82&strip=all&ssl=1
-
-
 
 ## Overall Evaluation
 
@@ -33,6 +23,10 @@ Spotify can be downloaded as a mobile app or used on a web browser. Here, I eval
 Spotify does a good job of keeping the user informed on the system status at any given time. For example, users know when a song is paused or playing due to the recognizable “play” and “pause” icon in the center of the screen. Users also know how much time has passed in a song and how much is left based on the horizontal progress bar on the listening interface. When scrolling through playlists, the title of the song that is currently playing is highlighted in green while other songs' titles remain in white. In addition, users know when the app is buffering or has weak connection because a “reconnecting…” message appears at the bottom of the screen. Also, when downloading music, a conventional loading circle next to the song title lets the user know that a song is actively downloading, whereas a static, grey download icon means the song has yet to begin downloading. All of these components effectively inform the user on the system status of the app. 
 
 Score: 1
+
+![Spotify Visibility](https://www.androidpolice.com/wp-content/themes/ap2/ap_resize/ap_resize.php?src=https%3A%2F%2Fwww.androidpolice.com%2Fwp-content%2Fuploads%2F2019%2F03%2Fspotify-now-playing-newer.png&w=728)
+
+
 
 
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.androidpolice.com%2F2019%2F04%2F04%2Fspotify-makes-your-song-queue-more-accessible-with-new-now-playing-ui%2F&psig=AOvVaw1eZO-_7CJDyV3xDXxGUUl-&ust=1578768310258000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjtrLbY-eYCFQAAAAAdAAAAABAJ
