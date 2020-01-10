@@ -100,5 +100,3 @@ Spotify, again, does the bare minimum when it comes to help and documentation. T
 Score: 2
 
 
-```
-
