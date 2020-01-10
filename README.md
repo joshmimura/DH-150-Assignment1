@@ -1,6 +1,6 @@
 # Assignment 1
 
-## DH 150 Assignment01: Heuristic Evaluation by Josh Mimura
+## DH 150 Assignment01: Heuristic Evaluation of Spotify's Mobile App by Josh Mimura
 
 The explosion of subscription-based music media platforms in the last decade have created a new community of listeners that can enjoy, share, and personalize their preferred music experiences. This community is unique because peer to peer interactions are rarely direct; rather, social connections exist through a mutual interest in an artist or genre of music. 
 
