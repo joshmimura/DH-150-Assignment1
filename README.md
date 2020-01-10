@@ -1,14 +1,20 @@
-## Assignment 1
+# Assignment 1
 
-Josh Mimura
+## DH 150 Assignment01: Heuristic Evaluation by Josh Mimura
 
-DH 150: UX
+The explosion of subscription-based music media platforms in the last decade have created a new community of listeners that can enjoy, share, and personalize their preferred music experiences. This community is unique because peer to peer interactions are rarely direct; rather, social connections exist through a mutual interest in an artist or genre of music. 
 
-## Spotify
+I chose to evaluate Spotify because it is an app that millions of people in the listening community use everyday. I am interested in how the app’s design enhances or hinders its usability for the average user like me, who doesn’t actively analyze the app from a designer’s perspective. Given that Spotify is enormously popular, every element of its design must be extremely strategic, however subtle it may be.  In addition, I am interested in how the usability features of the platform foster a sense of community and connection with other listeners. 
 
-I chose to evaluate Spotify because it is an app that I, and millions of others, use everyday. I am interested in how the app’s design enhances or hinders its usability for the average user like me, who doesn’t actively analyze the app from a designer’s perspective. Given that Spotify is enormously popular, every element of its design must be extremely strategic, however subtle it may be.  
+Spotify is a media service platform that allows users to stream and download music, podcasts, and other forms of audio media. Users can access Spotify through a mobile app, which allows them to personalize, organize, and share music and other media.
 
-Spotify is a media service platform that allows users to stream and download music, podcasts, and other forms of audio media. Users can access Spotify through a mobile app, which allows them to personalize, organize, and share music and other media. __________________
+
+[https://www.google.com/url?sa=i&url=https%3A%2F%2F9to5mac.com%2F2017%2F11%2F17%2Fspotify-iphone-x%2F&psig=AOvVaw1eZO-_7CJDyV3xDXxGUUl-&ust=1578768310258000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjtrLbY-eYCFQAAAAAdAAAAABAD](url) and ![Image](src)
+
+
+## Overall Evaluation
+
+
 
 
 ### 1 Visibility of System Status
