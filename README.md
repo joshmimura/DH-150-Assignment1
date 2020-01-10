@@ -12,8 +12,7 @@ Spotify is a media service platform that allows users to stream and download mus
 
 ## Overall Evaluation
 
-
-
+There is a reason Spotify has 217 million regular users worldwide. It's design elements work together in making the app an efficient, aethstetic, and empowering music listening platform for all types of users. Spotify excels in keeping the user informed on the system status, lending the user much freedom and control, and remaining internally and externally consistent. The intuitive design of the app emulates real world physics, and the range of functions enhances both the beginner and expert user's experience. Spotify's app can improve most by expanding help systems for users who run into technical troubles. Instead of suggesting vague solutions to errors, the app should take the user step by step through the problem solving process. In addition, more open-ended help outlets should be provided, such as a live chatbox or FAQ section. Fortunately, these minor issues do not threaten the overall functionality of the app. Spotify makes its user experience enjoyable, flexible, and efficient. 
 
 Spotify can be downloaded as a mobile app or used on a web browser. Here, I evaluate the usability of the application. This link will allow you to download Spotify, but it can also be downloaded on the Apple App Store. https://www.spotify.com/us/connect/
 
