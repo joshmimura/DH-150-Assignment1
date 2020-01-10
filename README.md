@@ -11,6 +11,15 @@ Spotify is a media service platform that allows users to stream and download mus
 ![Image of Yaktocat](https://www.google.com/url?sa=i&url=https%3A%2F%2F9to5mac.com%2F2017%2F11%2F17%2Fspotify-iphone-x%2F&psig=AOvVaw1eZO-_7CJDyV3xDXxGUUl-&ust=1578768310258000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjtrLbY-eYCFQAAAAAdAAAAABAD)
 
 
+![Spotify Interfaces](https://www.google.com/url?sa=i&url=https%3A%2F%2F9to5mac.com%2F2017%2F11%2F17%2Fspotify-iphone-x%2F&psig=AOvVaw1eZO-_7CJDyV3xDXxGUUl-&ust=1578768310258000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjtrLbY-eYCFQAAAAAdAAAAABAD)
+
+
+![Spotify Interfaces](https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2017/11/spotify.jpg?w=2500&quality=82&strip=all&ssl=1)
+
+https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2017/11/spotify.jpg?w=2500&quality=82&strip=all&ssl=1
+
+
+
 ## Overall Evaluation
 
 
