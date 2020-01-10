@@ -68,7 +68,9 @@ Spotify has effective error prevention methods, but the app is still vulnerable 
 
 Score: 2
 
-![Image description](link-to-image)
+![spotify prevention](https://www.wikihow.com/images/thumb/5/58/Log-Out-on-Spotify-on-iPhone-or-iPad-Step-5.jpg/aid10821151-v4-728px-Log-Out-on-Spotify-on-iPhone-or-iPad-Step-5.jpg)
+
+![spotify prevention2](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2017/06/spotify-delete-playlist-iphone-screenshot-02.jpg?itok=5kBQElrq)
 
 
 ### 6 Recognition Over Recall 
@@ -117,9 +119,7 @@ Spotify, again, does the bare minimum when it comes to help and documentation. T
 
 Score: 2
 
-![Image description](link-to-image)
 
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
