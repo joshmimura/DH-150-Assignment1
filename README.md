@@ -13,15 +13,15 @@ I chose to evaluate Spotify because it is an app that millions of people in the 
 
 Spotify is a media service platform that allows users to stream and download music, podcasts, and other forms of audio media. Users can access Spotify through a mobile app, which allows them to personalize, organize, and share music and other media. The app has several interfaces that allow direct song control as well as navigation through one's music collection. 
 
+Spotify can be downloaded as a mobile app or used on a web browser. Here, I evaluate the usability of the application. This link will allow you to download Spotify, but it can also be downloaded on the Apple App Store. [https://www.spotify.com/us/connect/](https://www.spotify.com/us/connect/)
+
+
 ![sp Interfaces](https://drive.google.com/uc?id=1E3l2WjWBQFby-lMSXyqbrFry547K1pTa)
 
 ![sp Interfaces](https://drive.google.com/uc?id=1K_xbMeO7A2Mru1JBljxjVE6bFaUhANyz)
 
 
 ![sp Interfaces](https://drive.google.com/uc?id=1uutmlj_Lr7WCIC4cues19YYab8RO9xiP)
-
-
-Spotify can be downloaded as a mobile app or used on a web browser. Here, I evaluate the usability of the application. This link will allow you to download Spotify, but it can also be downloaded on the Apple App Store. [https://www.spotify.com/us/connect/](https://www.spotify.com/us/connect/)
 
 
 ## Overall Evaluation
