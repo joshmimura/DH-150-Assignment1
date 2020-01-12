@@ -8,7 +8,13 @@ I chose to evaluate Spotify because it is an app that millions of people in the 
 
 Spotify is a media service platform that allows users to stream and download music, podcasts, and other forms of audio media. Users can access Spotify through a mobile app, which allows them to personalize, organize, and share music and other media. The app has several interfaces that allow direct song control as well as navigation through one's music collection. 
 
-![FF Interfaces](https://198285-603693-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2014/08/Fotor0812202634.jpg)
+![sp Interfaces](https://drive.google.com/uc?id=1E3l2WjWBQFby-lMSXyqbrFry547K1pTa)
+
+![sp Interfaces](https://drive.google.com/uc?id=1K_xbMeO7A2Mru1JBljxjVE6bFaUhANyz)
+
+
+![sp Interfaces](https://drive.google.com/uc?id=1uutmlj_Lr7WCIC4cues19YYab8RO9xiP)
+
 
 ## Overall Evaluation
 
