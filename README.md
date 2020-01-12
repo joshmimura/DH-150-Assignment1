@@ -39,7 +39,7 @@ Score: 1
 
 ## 2: Match Between System and the Real World
 
-Spotify uses conventional language and intuitive design that reflects real world trends. It uses commonly known words like “albums”, “artists”, “pause”, and “playlists”. The album interface is somewhat skeuomorphic in design as musical albums and playlists resemble the physical albums in the real world. In addition, skipping from song to song feels similar to turning pages in a physical book from left to right. Overall, Spotify uses consumer friendly language and design elements that intuitively resemble real world physics and processes.
+Spotify uses conventional language and intuitive design that reflects real world trends. It uses commonly known words like “albums”, “artists”, “pause”, and “playlists”. The album interface is somewhat skeuomorphic in design as musical albums and playlists resemble physical albums in the real world. In addition, skipping from song to song feels similar to turning pages in a physical book from left to right. Overall, Spotify uses consumer friendly language and design elements that intuitively resemble real world physics and processes.
 
 Score: 1
 
@@ -47,7 +47,7 @@ Score: 1
 
 ## 3: User Control and Freedom
 
-The app lends the user much freedom by including redo functions throughout. For instance, if a listener accidentally skips a song, he/she can simply press the back arrow button to the left of the play button to return to the previous song. When navigating playlists, a user can tap to see the contents of a playlist and easily back out by clicking the left-pointing arrow in the upper left hand corner of the screen. Should a user accidentally add a song to the queue, he/she can swipe the opposite direction to undo that action. Also, volume control is accessible and easy to alter. The user can simply slide a button left and right to decrease and increase the volume respectively. Thus, Spotify excels in giving the user a sense of freedom and control.
+The app lends the user much freedom and control by including redo functions throughout. For instance, if a listener accidentally skips a song, he/she can simply press the back arrow button to the left of the play button to return to the previous song. When navigating playlists, a user can tap to see the contents of a playlist and easily back out by clicking the left-pointing arrow in the upper left hand corner of the screen. Should a user accidentally add a song to the queue, he/she can swipe the opposite direction to undo that action. Also, volume control is accessible and easy to alter. The user can simply slide a button left and right to decrease and increase the volume respectively. Thus, Spotify excels in giving the user a sense of freedom and control.
 
 Score: 1
 
@@ -57,7 +57,7 @@ Score: 1
 
 Internal Consistency: Everything within Spotify is consistent. Playlists are all depicted as square album-like images with a bolded white title to the right of them. Any song, playlist, or album that is downloaded onto the local device is accompanied by a green circle with a black arrow pointing down. The listening interface is consistent from song to song, with a pause/play button in the lower middle of the screen, above which sits a timeline bar indicating the time surpassed as the music plays. Every song title is bolded in white, and its artist is written below in light gray.
 
-External Consistency: Spotify is mostly consistent with other music/media applications such as Apple Music. Its interface features the conventional layout, with the pause/play button centered on the screen and left and right arrows allowing users to skip to the next/previous songs. The language that Spotify uses is pretty universal. Both Apple Music and Spotify allow users to create custom “playlists” or to download “albums”.  Overall, Spotify is internally consistent as well as new-user friendly due to its strong external consistency. 
+External Consistency: Spotify is largely consistent with other music/media applications such as Apple Music. Its interface features the conventional layout, with the pause/play button centered on the screen and left and right arrows allowing users to skip to the next/previous songs. The language that Spotify uses is pretty universal. Both Apple Music and Spotify allow users to create custom “playlists” or to download “albums”.  Overall, Spotify is internally consistent and new-user friendly due to its strong external consistency. 
 
 Score: 1
 
@@ -75,7 +75,7 @@ Score: 2
 
 ## 6: Recognition Over Recall 
 
-Spotify rarely demands that the user recalls any specific information. If a user wants to find certain music, they can look up a genre, author, or keywords, and the app's search engine will provide a list of suggestions. These suggestions are recognizable and make music navigation quicker and easier. In addition, playlists in Spotify are supplemented with album-like images that contain pictures of the albums within the playlist. This allows the user to recognize playlist content by the album covers rather than forcing him/her to memorize which specific songs are in that music file. If the user forgets the name of a song that he/she recently listened to, Spotify offers a 'recently played' function so that the user doesn't need to remember the specific details of the song in order to find it. A potential area of improvement is integrating aural recognition into Spotify's search systems. For instance, Spotify can add a feature that listens to music and identifies the song in its database. Perhaps if a user only remembers lyrics in the song, he/she can enter them into a lyrical search engine that searches for songs, overcoming the user's limited recall. In all, Spotify's emphasis on recognition-based navigation over recall-based navigation enhances the app's usability and experience, but there is still room for improvement. 
+Spotify rarely demands that the user recalls any specific information. If a user wants to find certain music, they can look up a genre, author, or keywords, and the app's search engine will provide a list of suggestions. These suggestions are recognizable and make music navigation quicker and easier. In addition, playlists in Spotify are supplemented with album-like images that contain pictures of the albums within the playlist. This allows the user to recognize playlist content by the album covers rather than forcing him/her to memorize the specific songs that are in that music file. If the user forgets the name of a song that he/she recently listened to, Spotify offers a 'recently played' function so that the user doesn't need to remember the specific details of the song in order to find it. A potential area of improvement is integrating aural and lyrical recognition into Spotify's search systems. For instance, Spotify can add a feature that listens to music and identifies the song in its database. Perhaps if a user only remembers lyrics in the song, he/she can enter them into a lyrical search engine that searches for songs, overcoming the user's limited recall. In all, Spotify's emphasis on recognition-based navigation over recall-based navigation enhances the app's usability and experience, but there is still room for improvement. 
 
 Score: 2
 
@@ -83,7 +83,7 @@ Score: 2
 
 ## 7: Flexibility and Efficiency of Use
 
-Spotify's design allows expert music enthusiasts and music beginners to operate the app with ease and enjoyment. Experienced users can create an array of playlists and share them with others. They can create a music queue that specifies the exact order of music they listen to and can favorite certain songs while removing others. People who are less enthusiastic and want a simple experience don't even need to construct a custom playlist. They can tap on a genre of music, and music will begin playing. They can listen to music without needing to know how to use the more complicated features of Spotify. Therefore, Spotify is flexible and efficient; it provides inexperienced with an enjoyable musical experience while allowing expert music enthusiasts to build a complex, organized collection of media. 
+Spotify's design allows both expert music enthusiasts and music beginners to operate the app with ease and enjoyment. Experienced users can create an array of playlists and share them with others. They can create a music queue that specifies the exact order of music they listen to and can 'favorite' certain songs while removing others. People who are less enthusiastic and want a simple experience don't even need to construct a custom playlist. They can tap on a genre of music, and music will begin playing. They can listen to music without needing to know how to use the more complicated features of Spotify. Therefore, Spotify is flexible and efficient; it provides inexperienced with an enjoyable musical experience while allowing expert music enthusiasts to build a complex, organized collection of media. 
 
 Score: 1
 
@@ -107,7 +107,7 @@ Score: 2
 
 ## 10: Help and Documentation
 
-Spotify, again, does the bare minimum when it comes to help and documentation. The app has an 'about' section where the user can access terms and conditions, privacy policy, and other official documents. However, should the user have a question that falls outside of these guidelines, there is nowhere else to turn. There is no FAQ section, no chat box, no customer feedback form, and no 'find out more' tab. Without customer support contact information, the user is forced to search for answers on the internet. In sum, the lack of troubleshooting guidance and basic assistance outlets makes Spotify weak in the help and documentation category of evaluation. I think Spotify can improve in this area by providing a live chat box for questions or a FAQ section.
+Spotify, again, does the bare minimum when it comes to help and documentation. The app has an 'about' section where the user can access terms and conditions, privacy policy, and other official documents. However, should the user have a question that falls outside of these guidelines, there is nowhere else to turn. There is no FAQ section, no chat box, no customer feedback form, and no 'find out more' tab. Without any customer support contact information, the user is forced to search for answers on the internet. In sum, the lack of troubleshooting guidance and basic assistance outlets makes Spotify weak in the help and documentation category of evaluation. I think Spotify can improve in this area by providing a live chat box for questions or a FAQ section.
 
 Score: 2
 
